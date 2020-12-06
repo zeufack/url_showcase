@@ -1,0 +1,13 @@
+Page to be crawled: https://en.wikipedia.org/wiki/Pharming
+===================
+
+https://en.wikipedia.org/wiki/Pharming
+https://en.wikipedia.org/wiki/Pharming#mw-head
+https://en.wikipedia.org/wiki/Pharming#searchInput
+https://www.google.com/search?as_eq=wikipedia&amp;q=%22Pharming%22
+https://www.google.com/search?tbm=nws&amp;q=%22Pharming%22+-wikipedia
+https://www.google.com/search?tbs=bks1&amp;q=%22Pharming%22+-wikipedia
+https://en.wikipedia.org/wiki/Pharming#cite_note-pro-1
+https://en.wikipedia.org/wiki/Anti-pharming
+https:/en.wikipedia.org/wiki/Pharming#Pharming_vulnerability_at_home_and_work
+https://en.wikipedia.org/wiki/Pharming#Instances_of_pharming

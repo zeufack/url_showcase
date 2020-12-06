@@ -1,0 +1,25 @@
+Page to be crawled: https://www.consumer.ftc.gov/features/scam-alerts
+===================
+
+https://www.consumer.ftc.gov/media 
+https://www.consumer.ftc.gov/blog/2020/09/tips-help-you-prepare-and-recover-natural-disasters : 80344.878242676
+https://www.consumer.ftc.gov/features/scam-alerts?page=1 
+https://www.consumer.ftc.gov/features/scam-alerts?page=7 
+https://www.consumer.ftc.gov/features/scam-alerts?page=1
+https://www.consumer.ftc.gov/scams/gift-card-scams 
+https://www.consumer.ftc.gov/taxonomy/term/861 
+https://www.consumer.ftc.gov/media 
+https://www.consumer.ftc.gov/comment/reply/16694#comment-form 
+https://www.consumer.ftc.gov/features/scam-alerts?page=1#block-system-main-menu 
+https://www.consumer.ftc.gov/features/scam-alerts?page=1 
+https://www.consumer.ftc.gov/blog/2020/08/tips-help-you-avoid-post-disaster-scams 
+https://www.consumer.ftc.gov/features/scam-alerts?page=7 
+https://www.consumer.ftc.gov/scams/gift-card-scams 
+https://www.consumer.ftc.gov/taxonomy/term/861 
+https://www.consumer.ftc.gov/blog/2020/08/tips-help-you-avoid-post-disaster-scams 
+https://www.consumer.ftc.gov/taxonomy/term/861 
+https://www.consumer.ftc.gov/features/scam-alerts?page=1#block-system-main-menu 
+https://www.consumer.ftc.gov/features/scam-alerts?page=1 
+https://www.consumer.ftc.gov/blog/2020/08/tips-help-you-avoid-post-disaster-scams 
+https://www.consumer.ftc.gov/taxonomy/term/861 : 82359.75279386199
+https://www.consumer.ftc.gov/features/scam-alerts?page=1#block-system-main-menu 
