@@ -30,7 +30,7 @@ python-flask base application
  the main app file 
 # routes.py
   base router and 
-  c'est dans ce fichier que je fais les l'affichage des donnes. s'il faut change la souce des donnes c'est la
+  c'est dans ce fichier que je fais  l'affichage des donnees. s'il faut changer la souce des donnees c'est ici
 
 # static 
 
